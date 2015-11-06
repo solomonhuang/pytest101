@@ -10,3 +10,6 @@ python:
 script:
     python -m unittest test.test
 
+notifications:
+    email: false
+
